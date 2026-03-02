@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/ak-ambulance-ufe
+
+components:
+- ../../../components/version-developers
