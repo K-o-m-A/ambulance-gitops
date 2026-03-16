@@ -3,4 +3,4 @@ kind: Component
 images:
 - name: hocikto/ambulance-ufe
   newName: hocikto/ambulance-ufe
-  newTag: main.20260316.1047 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newTag: main.20260316.1145 # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
