@@ -6,6 +6,8 @@ spec:
   microFrontend: ak-ambulance-ufe
   element: ak-ambulance-wl-app
   attributes:
+    - name: base-path
+      value: /ak-ambulance-wl/
     - name: api-base
       value: http://localhost:5000/api
     - name: ambulance-id
