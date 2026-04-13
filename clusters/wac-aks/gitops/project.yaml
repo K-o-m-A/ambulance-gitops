@@ -7,6 +7,6 @@ spec:
   description: "Spravuje zoznam pacientov čakajúcich na vyšetrenie v ambulancii"
   authors: "Adrian Komanek" # Zadajte mená autorov
   azureLink: "https://<sub-domain>.azurewebsites.net"
-  frontendRepoUrl: "https://github.com/K-o-m-A/ambulance-ufe"
-  backendRepoUrl: "https://github.com/K-o-m-A/ambulance-webapi"
-  gitopsRepoUrl: "https://github.com/K-o-m-A/ambulance-gitops"
+  frontendRepoUrl: "https://github.com/K-o-m-A/ak-ambulance-ufe"
+  backendRepoUrl: "https://github.com/K-o-m-A/ak-ambulance-webapi"
+  gitopsRepoUrl: "https://github.com/K-o-m-A/ak-ambulance-gitops"
