@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/ak-ambulance-ufe
+- ../../../apps/ak-ambulance-webapi
 
 
 components:
